@@ -1,0 +1,16 @@
+.container{
+    width: 70%;
+    margin: 10vh auto;
+    text-align: center;
+    background-color: rgb(209, 146, 29);
+}
+.body{
+    background-color: rgb(14, 24, 24);
+}
+h1 {
+    color: white;
+}
+
+.btn {
+    margin: 10px;
+}
